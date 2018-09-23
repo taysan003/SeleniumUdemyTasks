@@ -22,41 +22,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="13" />
+          <entry key="java" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="13" />
+          <entry key="JAVA" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1126" />
+          <entry key="java" value="1129" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1126" />
+          <entry key="JAVA" value="1129" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/findlinks/GetResponseCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DropDownOperations.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -117,11 +105,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
+            <state relative-caret-position="-264">
               <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="78" column="5" selection-start-line="59" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -194,6 +194,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java" />
       </list>
     </option>
   </component>
@@ -204,9 +205,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="200" />
-    <option name="y" value="133" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="126" />
+    <option name="y" value="129" />
     <option name="width" value="1676" />
     <option name="height" value="984" />
   </component>
@@ -278,7 +279,7 @@
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537725744312" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537726732463" />
     <property name="last_opened_file_path" value="G:/APIAutoTesting/RestAssuredCore" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -297,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ClickUsingJS">
+  <component name="RunManager" selected="TestNG.ScrollingUsingJS.scrollPageTest">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -336,41 +337,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DragAndDropExample (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.DragAndDropExample" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="DragAndDropExample (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.DragAndDropExample" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DragAndDropExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumUdemy" />
       <extension name="coverage">
         <pattern>
@@ -404,6 +371,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ScrollingUsingJS" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javascriptexecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.ScrollingUsingJS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScrollingUsingJS.scrollPageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javascriptexecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.ScrollingUsingJS" />
+      <option name="METHOD_NAME" value="scrollPageTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -413,32 +416,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DragAndDropExample" />
-      <item itemvalue="TestNG.DragAndDropExample (1)" />
       <item itemvalue="TestNG.DragAndDropExample (2)" />
       <item itemvalue="TestNG.KeyboardEventsSample" />
       <item itemvalue="TestNG.ClickUsingJS" />
+      <item itemvalue="TestNG.ScrollingUsingJS" />
+      <item itemvalue="TestNG.ScrollingUsingJS.scrollPageTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ScrollingUsingJS.scrollPageTest" />
+        <item itemvalue="TestNG.ScrollingUsingJS" />
         <item itemvalue="TestNG.ClickUsingJS" />
         <item itemvalue="TestNG.KeyboardEventsSample" />
         <item itemvalue="TestNG.DragAndDropExample (2)" />
-        <item itemvalue="TestNG.DragAndDropExample (1)" />
-        <item itemvalue="TestNG.DragAndDropExample" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleClickExample - 2018.09.23 at 11h 08m 01s.xml">
-      <configuration name="DoubleClickExample" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="RightClickExample_performRightClick - 2018.09.23 at 11h 46m 10s.xml">
-      <configuration name="RightClickExample.performRightClick" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="MouseHoverSample - 2018.09.23 at 12h 11m 06s.xml">
-      <configuration name="MouseHoverSample" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DragAndDropExample - 2018.09.23 at 12h 30m 36s.xml">
       <configuration name="DragAndDropExample" configurationId="TestNG" />
     </history-entry>
@@ -460,12 +454,21 @@
     <history-entry file="KeyboardEventsSample - 2018.09.23 at 12h 58m 22s.xml">
       <configuration name="KeyboardEventsSample" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ClickUsingJS - 2018.09.23 at 14h 02m 35s.xml">
+      <configuration name="ClickUsingJS" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ScrollingUsingJS - 2018.09.23 at 14h 11m 37s.xml">
+      <configuration name="ScrollingUsingJS" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ScrollingUsingJS - 2018.09.23 at 14h 15m 38s.xml">
+      <configuration name="ScrollingUsingJS" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="223" y="259" width="1676" height="984" extended-state="0" />
+    <frame x="393" y="133" width="1676" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29393566" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29393566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -474,7 +477,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41764706" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.41764706" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -482,7 +485,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.3264642" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32588235" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -616,8 +619,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
+        <state relative-caret-position="-264">
           <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="78" column="5" selection-start-line="59" selection-start-column="3" selection-end-line="78" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
