@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="" />
+    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,22 +23,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="8" />
+          <entry key="gitignore" value="1" />
+          <entry key="java" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="8" />
+          <entry key="Git file" value="1" />
+          <entry key="JAVA" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1100" />
+          <entry key="java" value="1107" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1100" />
+          <entry key="JAVA" value="1107" />
         </counts>
       </usages-collector>
     </session>
@@ -108,14 +112,35 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DoubleClickExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="168">
+              <caret line="25" column="80" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="80" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="428">
+              <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="156">
+              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -158,6 +183,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DropDownOperations.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/HandleMultipleWindows.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DoubleClickExample.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java" />
       </list>
     </option>
   </component>
@@ -174,7 +202,9 @@
     <option name="width" value="1676" />
     <option name="height" value="678" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <autoscrollFromSource ProjectPane="true" />
@@ -248,9 +278,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="add_unversioned_files" value="$PROJECT_DIR$/src/test/java/GoogleSearchTest.java" />
+    <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537715283223" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537719044206" />
     <property name="last_opened_file_path" value="G:/APIAutoTesting/RestAssuredCore" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -269,7 +299,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DoubleClickExample">
+  <component name="RunManager" selected="TestNG.MouseHoverSample">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -301,44 +331,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.selenium.tasks" />
       <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.DoubleClickExample" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DropDownOperations.printAllValuesTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.DropDownOperations" />
-      <option name="METHOD_NAME" value="printAllValuesTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DropDownOperations.selectbyTextTest (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.DropDownOperations" />
-      <option name="METHOD_NAME" value="selectbyTextTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -384,6 +376,42 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MouseHoverSample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.MouseHoverSample" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RightClickExample.performRightClick" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.RightClickExample" />
+      <option name="METHOD_NAME" value="performRightClick" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -393,26 +421,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.DropDownOperations.selectbyTextTest (1)" />
-      <item itemvalue="TestNG.DropDownOperations.printAllValuesTest" />
       <item itemvalue="TestNG.HandleMultipleWindows.multiWindowTest" />
       <item itemvalue="TestNG.HandleMultipleWindows.multiWindowTest (1)" />
       <item itemvalue="TestNG.DoubleClickExample" />
+      <item itemvalue="TestNG.RightClickExample.performRightClick" />
+      <item itemvalue="TestNG.MouseHoverSample" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MouseHoverSample" />
+        <item itemvalue="TestNG.RightClickExample.performRightClick" />
         <item itemvalue="TestNG.DoubleClickExample" />
         <item itemvalue="TestNG.HandleMultipleWindows.multiWindowTest (1)" />
         <item itemvalue="TestNG.HandleMultipleWindows.multiWindowTest" />
-        <item itemvalue="TestNG.DropDownOperations.printAllValuesTest" />
-        <item itemvalue="TestNG.DropDownOperations.selectbyTextTest (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="DropDownOperations - 2018.09.22 at 15h 53m 46s.xml">
-      <configuration name="DropDownOperations" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DropDownOperations - 2018.09.22 at 15h 54m 20s.xml">
       <configuration name="DropDownOperations" configurationId="TestNG" />
     </history-entry>
@@ -439,6 +464,9 @@
     </history-entry>
     <history-entry file="DoubleClickExample - 2018.09.23 at 11h 08m 01s.xml">
       <configuration name="DoubleClickExample" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="RightClickExample_performRightClick - 2018.09.23 at 11h 46m 10s.xml">
+      <configuration name="RightClickExample.performRightClick" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -542,11 +570,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DoubleClickExample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="33" column="5" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="168">
+          <caret line="25" column="80" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="80" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="18" lean-forward="true" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="428">
+          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
