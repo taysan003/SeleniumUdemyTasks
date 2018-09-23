@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,41 +22,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="12" />
+          <entry key="java" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="12" />
+          <entry key="JAVA" value="13" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1123" />
+          <entry key="java" value="1126" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1123" />
+          <entry key="JAVA" value="1126" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/CalenderSelectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="792">
-              <caret line="40" column="84" selection-start-line="40" selection-start-column="84" selection-end-line="40" selection-end-column="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/findlinks/GetResponseCode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -119,11 +105,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+            <state relative-caret-position="303">
+              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -195,6 +193,7 @@
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java" />
       </list>
     </option>
   </component>
@@ -205,9 +204,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="223" />
-    <option name="y" value="259" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="200" />
+    <option name="y" value="133" />
     <option name="width" value="1676" />
     <option name="height" value="984" />
   </component>
@@ -265,17 +264,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="findlinks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
+              <item name="com.javascriptexecuter" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -289,7 +278,7 @@
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537721902707" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537725744312" />
     <property name="last_opened_file_path" value="G:/APIAutoTesting/RestAssuredCore" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -308,7 +297,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.KeyboardEventsSample">
+  <component name="RunManager" selected="TestNG.ClickUsingJS">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -326,6 +315,23 @@
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClickUsingJS" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javascriptexecuter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
+      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.ClickUsingJS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -398,23 +404,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MouseHoverSample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.MouseHoverSample" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -424,26 +413,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.MouseHoverSample" />
       <item itemvalue="TestNG.DragAndDropExample" />
       <item itemvalue="TestNG.DragAndDropExample (1)" />
       <item itemvalue="TestNG.DragAndDropExample (2)" />
       <item itemvalue="TestNG.KeyboardEventsSample" />
+      <item itemvalue="TestNG.ClickUsingJS" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ClickUsingJS" />
         <item itemvalue="TestNG.KeyboardEventsSample" />
         <item itemvalue="TestNG.DragAndDropExample (2)" />
         <item itemvalue="TestNG.DragAndDropExample (1)" />
         <item itemvalue="TestNG.DragAndDropExample" />
-        <item itemvalue="TestNG.MouseHoverSample" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="DoubleClickExample - 2018.09.23 at 11h 07m 21s.xml">
-      <configuration name="DoubleClickExample" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DoubleClickExample - 2018.09.23 at 11h 08m 01s.xml">
       <configuration name="DoubleClickExample" configurationId="TestNG" />
     </history-entry>
@@ -471,12 +457,15 @@
     <history-entry file="KeyboardEventsSample - 2018.09.23 at 12h 57m 18s.xml">
       <configuration name="KeyboardEventsSample" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="KeyboardEventsSample - 2018.09.23 at 12h 58m 22s.xml">
+      <configuration name="KeyboardEventsSample" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="223" y="259" width="1676" height="984" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2531983" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29393566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -485,7 +474,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38503253" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.41764706" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -617,8 +606,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="44" column="35" lean-forward="true" selection-start-line="44" selection-start-column="35" selection-end-line="44" selection-end-column="35" />
+        <state relative-caret-position="303">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
