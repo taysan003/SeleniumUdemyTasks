@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="" />
+    <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -9,6 +12,9 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1798785478">
@@ -22,23 +28,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
-          <entry key="java" value="16" />
+          <entry key="html" value="1" />
+          <entry key="java" value="19" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
-          <entry key="JAVA" value="16" />
+          <entry key="HTML" value="1" />
+          <entry key="JAVA" value="19" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1142" />
+          <entry key="java" value="1188" />
+          <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1142" />
+          <entry key="JAVA" value="1188" />
+          <entry key="XML" value="1" />
         </counts>
       </usages-collector>
     </session>
@@ -46,25 +58,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DropDownOperations.java">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="318">
-              <caret line="67" column="32" selection-start-line="67" selection-start-column="32" selection-end-line="67" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DoubleClickExample.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="25" column="80" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="80" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="370">
+              <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -73,7 +70,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="716">
-              <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+              <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +82,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="303">
-              <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+              <caret line="48" selection-start-line="48" selection-end-line="48" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -97,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-264">
-              <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -109,7 +106,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="788">
-              <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,11 +126,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/WebTableExample.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="236">
-              <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+              <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -142,21 +139,38 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
+            <state relative-caret-position="480">
+              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.extentreport/ExtentReport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="552">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+            <state relative-caret-position="337">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.extentreport/SampleReport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-182">
+              <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1945#1946#0" expanded="true" />
+                <element signature="e#1975#1976#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -197,6 +211,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.javascriptexecuter/PageTextJS.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/WebTableExample.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com.extentreport/ExtentReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.extentreport/SampleReport.java" />
       </list>
     </option>
   </component>
@@ -207,11 +224,11 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="129" />
-    <option name="y" value="12" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="76" />
+    <option name="y" value="79" />
     <option name="width" value="1676" />
-    <option name="height" value="984" />
+    <option name="height" value="958" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -238,12 +255,6 @@
               <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -259,24 +270,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="com.extentreport" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
               <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.javascriptexecuter" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -290,7 +289,7 @@
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537732061570" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537747930485" />
     <property name="last_opened_file_path" value="G:/APIAutoTesting/RestAssuredCore" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -309,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.WebTableExample">
+  <component name="RunManager" selected="TestNG.ExtentReport">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -331,16 +330,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageTextJS (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReport" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javascriptexecuter.*" />
+          <option name="PATTERN" value="com.extentreport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.PageTextJS" />
+      <option name="PACKAGE_NAME" value="com.extentreport" />
+      <option name="MAIN_CLASS_NAME" value="com.extentreport.ExtentReport" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -348,51 +347,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PageTextJS (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExtentReport.verifyTittleTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.javascriptexecuter.*" />
+          <option name="PATTERN" value="com.extentreport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.PageTextJS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageTextJS" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecuter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.PageTextJS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PageTextJS.pageTitleJSTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.javascriptexecuter.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.javascriptexecuter" />
-      <option name="MAIN_CLASS_NAME" value="com.javascriptexecuter.PageTextJS" />
-      <option name="METHOD_NAME" value="pageTitleJSTest" />
+      <option name="PACKAGE_NAME" value="com.extentreport" />
+      <option name="MAIN_CLASS_NAME" value="com.extentreport.ExtentReport" />
+      <option name="METHOD_NAME" value="verifyTittleTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -401,16 +366,50 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WebTableExample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="SampleReport (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumUdemy" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
+          <option name="PATTERN" value="com.extentreport.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
-      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.WebTableExample" />
+      <option name="PACKAGE_NAME" value="com.extentreport" />
+      <option name="MAIN_CLASS_NAME" value="com.extentreport.SampleReport" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleReport (2)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.extentreport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.extentreport" />
+      <option name="MAIN_CLASS_NAME" value="com.extentreport.SampleReport" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleReport" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.extentreport.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.extentreport" />
+      <option name="MAIN_CLASS_NAME" value="com.extentreport.SampleReport" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -427,44 +426,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.PageTextJS" />
-      <item itemvalue="TestNG.PageTextJS.pageTitleJSTest" />
-      <item itemvalue="TestNG.PageTextJS (1)" />
-      <item itemvalue="TestNG.PageTextJS (2)" />
-      <item itemvalue="TestNG.WebTableExample" />
+      <item itemvalue="TestNG.ExtentReport.verifyTittleTest" />
+      <item itemvalue="TestNG.SampleReport" />
+      <item itemvalue="TestNG.SampleReport (1)" />
+      <item itemvalue="TestNG.SampleReport (2)" />
+      <item itemvalue="TestNG.ExtentReport" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.WebTableExample" />
-        <item itemvalue="TestNG.PageTextJS (2)" />
-        <item itemvalue="TestNG.PageTextJS (1)" />
-        <item itemvalue="TestNG.PageTextJS.pageTitleJSTest" />
-        <item itemvalue="TestNG.PageTextJS" />
+        <item itemvalue="TestNG.ExtentReport" />
+        <item itemvalue="TestNG.SampleReport (2)" />
+        <item itemvalue="TestNG.SampleReport (1)" />
+        <item itemvalue="TestNG.SampleReport" />
+        <item itemvalue="TestNG.ExtentReport.verifyTittleTest" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="ScrollingUsingJS_scrollPageTest - 2018.09.23 at 14h 19m 09s.xml">
-      <configuration name="ScrollingUsingJS.scrollPageTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS - 2018.09.23 at 14h 26m 19s.xml">
-      <configuration name="PageTextJS" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS_pageTitleJSTest - 2018.09.23 at 14h 30m 25s.xml">
-      <configuration name="PageTextJS.pageTitleJSTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS_pageTitleJSTest - 2018.09.23 at 14h 31m 15s.xml">
-      <configuration name="PageTextJS.pageTitleJSTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS_pageTitleJSTest - 2018.09.23 at 14h 33m 31s.xml">
-      <configuration name="PageTextJS.pageTitleJSTest" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS_(1) - 2018.09.23 at 14h 35m 27s.xml">
-      <configuration name="PageTextJS (1)" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="PageTextJS_(2) - 2018.09.23 at 14h 37m 46s.xml">
-      <configuration name="PageTextJS (2)" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="WebTableExample - 2018.09.23 at 15h 18m 53s.xml">
       <configuration name="WebTableExample" configurationId="TestNG" />
     </history-entry>
@@ -474,20 +452,42 @@
     <history-entry file="WebTableExample - 2018.09.23 at 15h 47m 54s.xml">
       <configuration name="WebTableExample" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="WebTableExample - 2018.09.23 at 18h 56m 50s.xml">
+      <configuration name="WebTableExample" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 18h 58m 31s.xml">
+      <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 18h 59m 23s.xml">
+      <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 19h 00m 17s.xml">
+      <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 19h 24m 51s.xml">
+      <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SampleReport - 2018.09.23 at 20h 07m 41s.xml">
+      <configuration name="SampleReport" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="SampleReport_(1) - 2018.09.23 at 20h 08m 47s.xml">
+      <configuration name="SampleReport (1)" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="129" y="12" width="1676" height="984" extended-state="1" />
+    <frame x="76" y="79" width="1676" height="958" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29393566" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
-      <window_info id="Learn" order="4" />
+      <window_info id="Learn" order="4" weight="0.32982674" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33009708" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -495,7 +495,7 @@
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32588235" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32524273" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -510,9 +510,6 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/GoogleSearchTest.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/GoogleSearch.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
@@ -593,24 +590,14 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="156">
-          <caret line="8" column="43" lean-forward="true" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="716">
-          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+          <caret line="38" column="42" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -620,7 +607,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/KeyboardEventsSample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="303">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -630,7 +617,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-264">
-          <caret line="19" column="36" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -640,7 +627,7 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="788">
-          <caret line="71" lean-forward="true" selection-start-line="71" selection-end-line="71" />
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -660,9 +647,55 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/WebTableExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
-          <caret line="65" column="9" lean-forward="true" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
+          <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/DragAndDropExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test-output/extentreport.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.extentreport/ExtentReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.extentreport/SampleReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-182">
+          <caret line="24" column="43" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1945#1946#0" expanded="true" />
+            <element signature="e#1975#1976#0" expanded="true" />
           </folding>
         </state>
       </provider>
