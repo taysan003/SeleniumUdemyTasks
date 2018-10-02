@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -33,7 +31,7 @@
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="27" />
+          <entry key="java" value="31" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
@@ -41,19 +39,19 @@
         <counts>
           <entry key="Git file" value="1" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="27" />
+          <entry key="JAVA" value="31" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1418" />
+          <entry key="java" value="2172" />
           <entry key="xml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1418" />
+          <entry key="JAVA" value="2172" />
           <entry key="XML" value="20" />
         </counts>
       </usages-collector>
@@ -61,39 +59,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.xmlreading/WriteExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.xmlreading/ReadExcel.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1272">
-              <caret line="60" column="50" selection-start-line="60" selection-start-column="50" selection-end-line="60" selection-end-column="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.retryfailedtests/SampleTestClass1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.retryfailedtests/SampleTestClass2.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -136,13 +101,52 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="192">
               <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="192">
+              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+              <folding>
+                <element signature="e#374#375#0" expanded="true" />
+                <element signature="e#431#432#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="312">
+              <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#576#577#0" expanded="true" />
+                <element signature="e#598#599#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -220,6 +224,9 @@
         <option value="$PROJECT_DIR$/testng.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com.excel.utility/Xls_Reader.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/Singelton.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java" />
       </list>
     </option>
   </component>
@@ -231,8 +238,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="353" />
-    <option name="y" value="9" />
+    <option name="x" value="118" />
     <option name="width" value="1676" />
     <option name="height" value="1031" />
   </component>
@@ -285,15 +291,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="tasks" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.excel.utility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -303,6 +300,14 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.javascriptexecuter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com.singelton" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
@@ -323,7 +328,7 @@
   <component name="PropertiesComponent">
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538428561242" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538445687956" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FreeCRMTestFramework" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -342,7 +347,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FireFoxHeadless">
+  <component name="RunManager" selected="TestNG.PageTest">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -358,7 +363,7 @@
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.selenium.tasks.*" />
+          <option name="PATTERN" value="com.singelton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -366,27 +371,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xmlreading.ReadExcel" />
+    <configuration name="Singelton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.singelton.Singelton" />
       <module name="SeleniumUdemy" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.xmlreading.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="WriteExcel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.xmlreading.WriteExcel" />
-      <module name="SeleniumUdemy" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.xmlreading.*" />
+          <option name="PATTERN" value="com.singelton.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -410,6 +401,23 @@
       <module name="SeleniumUdemy" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PageTest" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SeleniumUdemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.singelton.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.singelton" />
+      <option name="MAIN_CLASS_NAME" value="com.singelton.PageTest" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -443,19 +451,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.WriteExcel" />
-      <item itemvalue="Application.ReadExcel" />
       <item itemvalue="TestNG.G:/SeleniumProjects/SeleniumUdemy/testng.xml" />
       <item itemvalue="TestNG.SampleTestClass1" />
       <item itemvalue="Application.FireFoxHeadless" />
+      <item itemvalue="Application.Singelton" />
+      <item itemvalue="TestNG.PageTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.PageTest" />
+        <item itemvalue="Application.Singelton" />
         <item itemvalue="Application.FireFoxHeadless" />
         <item itemvalue="TestNG.SampleTestClass1" />
         <item itemvalue="TestNG.G:/SeleniumProjects/SeleniumUdemy/testng.xml" />
-        <item itemvalue="Application.ReadExcel" />
-        <item itemvalue="Application.WriteExcel" />
       </list>
     </recent_temporary>
   </component>
@@ -492,9 +500,10 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="353" y="9" width="1676" height="1031" extended-state="0" />
+    <frame x="118" y="0" width="1676" height="1031" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1615099" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26175743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -503,12 +512,12 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30992195" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30992195" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998884" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32329988" />
@@ -752,6 +761,39 @@
           <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
+          <folding>
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#431#432#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
