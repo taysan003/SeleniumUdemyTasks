@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="fefa7ca6-d1d2-49c0-8534-fbbb1f97add4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -19,40 +20,44 @@
     <session id="1798785478">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
-          <entry key="project.open.time.1" value="3" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gitignore" value="1" />
           <entry key="html" value="2" />
-          <entry key="java" value="31" />
-          <entry key="xml" value="4" />
+          <entry key="java" value="36" />
+          <entry key="png" value="3" />
+          <entry key="xml" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Git file" value="1" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="31" />
-          <entry key="XML" value="4" />
+          <entry key="Image" value="3" />
+          <entry key="JAVA" value="36" />
+          <entry key="XML" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="2172" />
-          <entry key="xml" value="20" />
+          <entry key="java" value="2626" />
+          <entry key="xml" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="2172" />
-          <entry key="XML" value="20" />
+          <entry key="JAVA" value="2626" />
+          <entry key="XML" value="21" />
         </counts>
       </usages-collector>
     </session>
@@ -60,68 +65,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.retryfailedtests/SampleTestClass2.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/PageTextJS.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.retryfailedtests/Transformation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testng.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="67" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="70" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.excel.utility/Xls_Reader.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9360">
-              <caret line="390" column="12" selection-start-line="390" selection-start-column="12" selection-end-line="390" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-              <folding>
-                <element signature="e#374#375#0" expanded="true" />
-                <element signature="e#431#432#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="384">
+              <caret line="24" column="43" selection-start-line="20" selection-start-column="7" selection-end-line="24" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -129,8 +76,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="216">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,15 +85,62 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1608">
+              <caret line="67" column="26" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="34" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.sikuli/YouTubeVideoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="427">
+              <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.sikuli/settings.png">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
+            <state relative-caret-position="240">
               <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#576#577#0" expanded="true" />
-                <element signature="e#598#599#0" expanded="true" />
+                <element signature="e#605#606#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -215,7 +209,6 @@
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/CaptureScreenShot.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.extentreport/CaptureScreenShot.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.extentreport/ExtentReport.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com.xmlreading/WriteExcel.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.xmlreading/ReadExcel.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.retryfailedtests/SampleTestClass1.java" />
@@ -227,6 +220,9 @@
         <option value="$PROJECT_DIR$/src/test/java/com/selenium/tasks/Singelton.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java" />
         <option value="$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com.sikuli/YouTubeVideoTest.java" />
       </list>
     </option>
   </component>
@@ -237,9 +233,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="118" />
-    <option name="width" value="1676" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="265" />
+    <option name="y" value="-9" />
+    <option name="width" value="1495" />
     <option name="height" value="1031" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -252,6 +249,22 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Scope 'Production'; set:Production; class com.intellij.psi.search.scope.ProjectProductionScope">
+          <expand>
+            <path>
+              <item name="SeleniumUdemy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SeleniumUdemy" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+            </path>
+            <path>
+              <item name="SeleniumUdemy" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="SeleniumUdemy" type="2674bda8:ScopeViewTreeModel$GroupNode" />
+              <item name="src" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -283,14 +296,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.excel.utility" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -307,14 +312,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com.singelton" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="SeleniumUdemy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="SeleniumUdemy" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com.xmlreading" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -322,18 +319,25 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="add_unversioned_files" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538445687956" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1538597505818" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../FreeCRMTestFramework" />
     <property name="project.structure.last.edited" value="Libraries" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.build.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\SeleniumProjects\SeleniumUdemy\src\test\java\com.sikuli" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -347,7 +351,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.PageTest">
+  <component name="RunManager" selected="Application.YouTubeVideoTest">
     <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
     </configuration>
@@ -385,6 +389,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="YouTubeVideoTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sikuli.YouTubeVideoTest" />
+      <module name="SeleniumUdemy" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sikuli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -397,10 +415,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="G:/SeleniumProjects/SeleniumUdemy/testng.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="MouseHoverSample" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="SeleniumUdemy" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.selenium.tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.selenium.tasks" />
+      <option name="MAIN_CLASS_NAME" value="com.selenium.tasks.MouseHoverSample" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
       <listeners />
@@ -425,23 +449,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SampleTestClass1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="SeleniumUdemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.retryfailedtests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.retryfailedtests" />
-      <option name="MAIN_CLASS_NAME" value="com.retryfailedtests.SampleTestClass1" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <properties />
@@ -451,29 +458,23 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="TestNG.G:/SeleniumProjects/SeleniumUdemy/testng.xml" />
-      <item itemvalue="TestNG.SampleTestClass1" />
       <item itemvalue="Application.FireFoxHeadless" />
       <item itemvalue="Application.Singelton" />
       <item itemvalue="TestNG.PageTest" />
+      <item itemvalue="TestNG.MouseHoverSample" />
+      <item itemvalue="Application.YouTubeVideoTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.YouTubeVideoTest" />
+        <item itemvalue="TestNG.MouseHoverSample" />
         <item itemvalue="TestNG.PageTest" />
         <item itemvalue="Application.Singelton" />
         <item itemvalue="Application.FireFoxHeadless" />
-        <item itemvalue="TestNG.SampleTestClass1" />
-        <item itemvalue="TestNG.G:/SeleniumProjects/SeleniumUdemy/testng.xml" />
       </list>
     </recent_temporary>
   </component>
   <component name="TestHistory">
-    <history-entry file="WebTableExample - 2018.09.23 at 18h 56m 50s.xml">
-      <configuration name="WebTableExample" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 18h 58m 31s.xml">
-      <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ExtentReport_verifyTittleTest - 2018.09.23 at 18h 59m 23s.xml">
       <configuration name="ExtentReport.verifyTittleTest" configurationId="TestNG" />
     </history-entry>
@@ -498,12 +499,26 @@
     <history-entry file="ClickUsingJS - 2018.09.23 at 21h 40m 52s.xml">
       <configuration name="ClickUsingJS" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="PageTest - 2018.10.01 at 22h 01m 23s.xml">
+      <configuration name="PageTest" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="MouseHoverSample - 2018.10.02 at 01h 42m 57s.xml">
+      <configuration name="MouseHoverSample" configurationId="TestNG" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="118" y="0" width="1676" height="1031" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26175743" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23400854" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -511,13 +526,13 @@
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30992195" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30992195" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32998884" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32998884" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32104123" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32329988" />
@@ -591,13 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="8" column="43" selection-start-line="8" selection-start-column="43" selection-end-line="8" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/RightClickExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="716">
@@ -612,34 +620,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/PageTextJS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4">
-          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/WebTableExample.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="236">
           <caret line="65" column="9" selection-start-line="65" selection-start-column="9" selection-end-line="65" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1536">
-          <caret line="71" selection-start-line="71" selection-end-line="71" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -664,13 +648,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1248">
-          <caret line="52" column="23" selection-start-line="9" selection-start-column="4" selection-end-line="57" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -710,7 +687,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com.retryfailedtests/Transformation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
+        <state relative-caret-position="240">
           <caret line="10" column="27" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -722,6 +699,96 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="192">
           <caret line="8" column="67" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.excel.utility/Xls_Reader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9120">
+          <caret line="390" column="12" selection-start-line="390" selection-start-column="12" selection-end-line="390" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="112" selection-start-line="7" selection-start-column="112" selection-end-line="7" selection-end-column="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ScrollingUsingJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1536">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.sikuli/pause.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/PageTextJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="24" column="43" selection-start-line="20" selection-start-column="7" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/MouseHoverSample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1608">
+          <caret line="67" column="26" selection-start-line="67" selection-start-column="24" selection-end-line="67" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.javascriptexecuter/ClickUsingJS.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#576#577#0" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -745,55 +812,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.excel.utility/Xls_Reader.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.sikuli/settings.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com.sikuli/YouTubeVideoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9360">
-          <caret line="390" column="12" selection-start-line="390" selection-start-column="12" selection-end-line="390" selection-end-column="12" />
+        <state relative-caret-position="427">
+          <caret line="39" column="18" lean-forward="true" selection-start-line="39" selection-start-column="18" selection-end-line="39" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/selenium/tasks/FireFoxHeadless.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="8" column="44" lean-forward="true" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/DriverInit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/Singelton.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-          <folding>
-            <element signature="e#374#375#0" expanded="true" />
-            <element signature="e#431#432#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com.singelton/PageTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="13" column="61" selection-start-line="13" selection-start-column="61" selection-end-line="13" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#576#577#0" expanded="true" />
-            <element signature="e#598#599#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -875,7 +902,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>Maven: com.google.code.findbugs:jsr305:1.3.9</last-edited>
+          <last-edited>com.sikulix:sikulixapi:1.1.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
